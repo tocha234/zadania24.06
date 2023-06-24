@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\bin\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\bin\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\bin\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\bin\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\bin\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\refint\tablice dwuwymiarowe zadanie 3 b).dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\tablice dwuwymiarowe zadanie 3 b).genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\tablice dwuwymiarowe zadanie 3 b)\tablice dwuwymiarowe zadanie 3 b)\obj\Debug\net7.0\ref\tablice dwuwymiarowe zadanie 3 b).dll
