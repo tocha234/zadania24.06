@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\bin\Debug\net7.0\delegowanie zadanie 1.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\bin\Debug\net7.0\delegowanie zadanie 1.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\bin\Debug\net7.0\delegowanie zadanie 1.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\bin\Debug\net7.0\delegowanie zadanie 1.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\bin\Debug\net7.0\delegowanie zadanie 1.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\refint\delegowanie zadanie 1.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\delegowanie zadanie 1.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 1\delegowanie zadanie 1\obj\Debug\net7.0\ref\delegowanie zadanie 1.dll
