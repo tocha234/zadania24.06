@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\bin\Debug\net7.0\delegowanie zadanie 6.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\bin\Debug\net7.0\delegowanie zadanie 6.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\bin\Debug\net7.0\delegowanie zadanie 6.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\bin\Debug\net7.0\delegowanie zadanie 6.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\bin\Debug\net7.0\delegowanie zadanie 6.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\refint\delegowanie zadanie 6.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\delegowanie zadanie 6.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\delegowanie zadanie 6\delegowanie zadanie 6\obj\Debug\net7.0\ref\delegowanie zadanie 6.dll
