@@ -1,0 +1,15 @@
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\bin\Debug\net7.0\typydanych zadanie 3.exe
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\bin\Debug\net7.0\typydanych zadanie 3.deps.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\bin\Debug\net7.0\typydanych zadanie 3.runtimeconfig.json
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\bin\Debug\net7.0\typydanych zadanie 3.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\bin\Debug\net7.0\typydanych zadanie 3.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.csproj.AssemblyReference.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.AssemblyInfoInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.AssemblyInfo.cs
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\refint\typydanych zadanie 3.dll
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.pdb
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\typydanych zadanie 3.genruntimeconfig.cache
+C:\Users\tocho\OneDrive\Pulpit\zadania\typydanych zadanie 3\typydanych zadanie 3\obj\Debug\net7.0\ref\typydanych zadanie 3.dll
